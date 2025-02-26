@@ -1,6 +1,6 @@
 ## Olá pessoas! 👋
 - 📚 Cusranso BCC - (Bacharelado em Ciência da Computação) 
-- 🌱 Aprendendo logica em C
+- 🌱 Sempre aprendendo algo novo :)
 <div>
   <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=luizherran&show_icons=true&theme=tokyonight">
   <img align="top" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizherran&layout=donut&theme=tokyonight"/">
