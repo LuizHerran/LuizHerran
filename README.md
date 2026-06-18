@@ -1,5 +1,5 @@
 ## Olá pessoas! 👋
-- 📚 Cusranso BCC - (Bacharelado em Ciência da Computação) 
+- 📚 Cursando BCC - (Bacharelado em Ciência da Computação) 
 - 🌱 Sempre aprendendo algo novo :)
 <div>
   <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=luizherran&show_icons=true&theme=tokyonight">
